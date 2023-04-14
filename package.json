@@ -1,0 +1,17 @@
+{
+  "name": "database_restapi",
+  "version": "1.0.0",
+  "description": "TEST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "isal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.2.0",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
